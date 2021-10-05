@@ -18,10 +18,6 @@
   <img align="center" alt="s"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img align="center" alt=""  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img align="center" alt=""  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <br>
-  <img align="center" alt=""  src="https://aleen42.github.io/badges/src/photoshop.svg"> 
-  <img align="center" alt=""  src="https://aleen42.github.io/badges/src/illustrator.svg"> 
-  <img align="center" alt=""  src="https://aleen42.github.io/badges/src/premiere.svg">
   
   
 </div> <br> <br>
