@@ -25,8 +25,8 @@
 
 <div align="center">
   <a href="https://github.com/leandrompadilha">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrompadilha&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrompadilha&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrompadilha&show_icons=true&theme=ayu-mirage&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrompadilha&layout=compact&langs_count=7&theme=ayu-mirage"/>
 </div>
 
  
