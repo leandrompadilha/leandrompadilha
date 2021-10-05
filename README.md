@@ -29,8 +29,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrompadilha&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
-![Snake animation](https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg)
-  
+<div align="center">
+  ![Snake animation](https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg)
+</div>  
 ##
 <div align="center">
   <a href="https://www.facebook.com/leandro.magalhaespadilha/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
