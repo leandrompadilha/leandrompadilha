@@ -16,10 +16,7 @@
   <img align="center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   <img align="center" alt="javascript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  
-  
-</div> <br> <br>
-
+</div> <br>
 
 <div align="center">
   <a href="https://github.com/leandrompadilha">
