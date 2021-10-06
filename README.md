@@ -28,6 +28,8 @@
 </div>
 
 ![Snake animation](https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg)
+![Visitor Count](https://profile-counter.glitch.me/leandrompadilha/count.svg)
+
   
 ##
   
