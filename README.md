@@ -16,10 +16,6 @@
   <img align="center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   <img align="center" alt="javascript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <br>  
-  <img align="center" height="25em" alt="javascript"  src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> 
-  <img align="center" height="25em" alt="javascript"  src="https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-      badge&logo=adobeillustrator&logoColor=white"> 
-  <img align="center" height="25em" alt="javascript"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white">
   
   
 </div> <br> <br>
