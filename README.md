@@ -30,7 +30,7 @@
 <div align="center">
   <h3 align="center"> Contador de Visitas:</h3>
   <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">
-  <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg" style="color:white"> 
+  <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg" style="color:white;"> 
   <br>   
  </div>
 
