@@ -29,7 +29,9 @@
 
 ![Snake animation](https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg)
 <p align="center">
-  ![Visitor Count](https://profile-counter.glitch.me/leandrompadilha/count.svg)
+  Numero de visitas: 
+  <br>
+  https://profile-counter.glitch.me/leandrompadilha/count.svg
  </p>
 
   
