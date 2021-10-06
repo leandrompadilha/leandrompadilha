@@ -4,13 +4,13 @@
 
 
 <div align="center">
-  <h3 align="center"> Estudando: </h3>
+  <h3 align="center"> <i>Estudando:</i> </h3>
   <img align="center" alt=""  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt=""  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
 </div>
 
 <div align="center">
-  <h3 align="center"> Conhecimentos em: </h3>
+  <h3 align="center"> <i>Conhecimentos em:</i> </h3>
   <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img align="center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
@@ -26,7 +26,7 @@
 
 <div align="center" style="width: 20px;">
   <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg"> 
-  <h3 align="center"> Contador de Visitas:</h3>
+  <h3 align="center"> <i>Contador de Visitas:</i> </h3>
   <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">    
  </div>
   
