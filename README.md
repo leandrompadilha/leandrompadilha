@@ -30,7 +30,6 @@
   <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg"> 
   <br>   
  </div>
-
   
 ##
   
