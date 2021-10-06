@@ -29,7 +29,9 @@
 
 <p align="center">
   <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg">
-  Número de visitas: <br> <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">
+  # Número de visitas: 
+  <br> <br>
+  <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">
  </p>
 
   
