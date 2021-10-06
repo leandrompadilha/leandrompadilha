@@ -32,7 +32,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrompadilha&layout=compact&langs_count=7&theme=nord"/>
 </div>
 
-<div align="center">
+<div align="center" style="width:20px">
   <h3 align="center"> Contador de Visitas:</h3>
   <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">
   <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg"> 
