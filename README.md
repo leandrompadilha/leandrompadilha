@@ -11,11 +11,13 @@
 
 <div align="center">
   <h3 align="center"> Conhecimentos em: </h3>
-  <img align="center" alt=""  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt=""  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img align="center" alt=""  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
-  <img align="center" alt=""  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
-  <img align="center" alt="s"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+  <img align="center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
+  <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
+  <img align="center" alt="javascript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+  <br>
+  <img align="center" alt="javascript"  src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white"> 
   
   
 </div> <br> <br>
@@ -30,7 +32,7 @@
 <div align="center">
   <h3 align="center"> Contador de Visitas:</h3>
   <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">
-  <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg" style="color:white;"> 
+  <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg"> 
   <br>   
  </div>
 
