@@ -27,8 +27,7 @@
 <div align="center" style="width: 20px;">
   <img src="https://github.com/leandrompadilha/leandrompadilha/blob/output/github-contribution-grid-snake.svg"> 
   <h3 align="center"> Contador de Visitas:</h3>
-  <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">  
-  <br>   
+  <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">    
  </div>
   
 ##
