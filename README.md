@@ -1,4 +1,4 @@
-## Oi, eu sou o Leandro Padilha
+## Oi, eu sou o Leandro
 - 👨🏻 Curitiba/PR - 31 anos
 - 💼 Buscando estágio na área de tecnologia.
 
