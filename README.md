@@ -7,7 +7,7 @@
   <h4 align="center"> Estudando: </h4>  
   
    <img align="center" alt="django"  src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <img align="center" alt="mysql"  src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="postgresql"  src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
       
 </div>
 
