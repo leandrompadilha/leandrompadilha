@@ -1,7 +1,5 @@
 ## Oi, eu sou o Leandro
 - 👨🏻 Curitiba/PR - 31 anos
-- 💼 Buscando estágio na área de tecnologia.
-
 
 <div align="center">
   <h4 align="center"> Estudando: </h4>  
