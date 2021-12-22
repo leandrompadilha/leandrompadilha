@@ -1,6 +1,6 @@
 ## Oi, eu sou o Leandro
 - 👨🏻 Curitiba/PR - 31 anos
-- _fire_department Buscando novos desafios e ideias inovadoras
+- 🔥Buscando novos desafios e ideias inovadoras
 
 <div align="center">
   <h4 align="center"> Estudando: </h4>  
