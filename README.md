@@ -22,7 +22,7 @@
 </div> <br>
 
 <div align="center">
-  <a href="https://github.com/leandrompadilha">
+  <a href="https://leandrompadilha.github.io/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrompadilha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrompadilha&layout=compact&langs_count=7&theme=nord"/>
 </div>
