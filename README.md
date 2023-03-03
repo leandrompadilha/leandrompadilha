@@ -3,20 +3,25 @@
 - 🔥Buscando novos desafios e ideias inovadoras
 
 <div align="center">
-  <h4 align="center"> Estudando: </h4>  
   
-   <img align="center" alt="java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
-  <img align="center" alt="mysql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
-      
 </div>
 
 <div align="center">
   <h4 align="center"> Conhecimentos em: </h4>
+  <br>
+  <h5 align="center"> Front-end: </h5>
   <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img align="center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   
+   <br>
+  <h5 align="center">  Back-end </h5>
+   <img align="center" alt="java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+  <img align="center" alt="mysql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  
+  <br>
+  <h5 align="center"> Análise de dados: </h5>
   <img align="center" alt="python "  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img align="center" alt="pandas "  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">  
 </div> <br>
