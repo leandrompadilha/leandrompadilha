@@ -29,7 +29,7 @@
   <img align="center" alt="pandas"  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">  
   <img align="center" alt="excel"  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">    
   
-   <br>
+  <br>
   <h5 align="center"> Plataformas: </h5>
   <img align="center" alt="windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img align="center" alt="ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
@@ -37,10 +37,12 @@
   <img align="center" alt="git"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="github"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   
-  
- 
+  <br>
+  <h5 align="center"> Edição gráfica: </h5>
+  <img align="center" alt="photoshop"  src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
+  <img align="center" alt="illustrator"  src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">  
+  <img align="center" alt="premiere"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
 </div> <br>
-
 
 <div align="center">
   <a href="https://leandrompadilha.github.io">
