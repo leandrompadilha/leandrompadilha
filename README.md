@@ -22,8 +22,6 @@
 </div> <br>
 
 
-
-
 <div align="center">
   <a href="https://leandrompadilha.github.io">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrompadilha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
@@ -40,7 +38,6 @@
 <div align="center">    
     <a href="https://www.linkedin.com/in/leandrompadilha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     <a href="mailto:leandromagalhaespadilha@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-    <a href="
-leandrompadilha.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+    <a href="https://leandrompadilha.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
   </div>
 
