@@ -7,6 +7,11 @@
 </div>
 
 <div align="center">
+  
+  <h4 align="center"> Estudando: </h4>
+  <h5 align="center"> Front-end: </h5>
+  <img align="center" alt="flutter"  src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white">
+  
   <h4 align="center"> Conhecimentos em: </h4>
   <h5 align="center"> Front-end: </h5>
   <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
