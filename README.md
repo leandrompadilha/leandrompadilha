@@ -11,25 +11,25 @@
   
   
   <h2 align="center"> Conhecimentos em: </h2>
-  <h4 align="center"> Front-end: </h4>
+    <h4 align="center"> FRONT-END: </h4>
   <img align="center" alt="html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
   <img align="center" alt="sass"  src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"> 
   <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   
   <br>
-  <h4 align="center">  Back-end </h4>
+  <h4 align="center">  BACK-END </h4>
   <img align="center" alt="java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="mysql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   
   <br>
-  <h4 align="center"> Análise de dados: </h4>
+  <h4 align="center"> ANÁLISE DE DADOS: </h4>
   <img align="center" alt="python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img align="center" alt="pandas"  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">  
   <img align="center" alt="excel"  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">    
   
   <br>
-  <h4 align="center"> Plataformas: </h4>
+  <h4 align="center"> PLATAFORMAS: </h4>
   <img align="center" alt="windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img align="center" alt="ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
   <img align="center" alt="vscode"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
@@ -37,7 +37,7 @@
   <img align="center" alt="github"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   
   <br>
-  <h4 align="center"> Edição gráfica: </h4>
+  <h4 align="center"> EDIÇÃO GRÁFIC: </h4>
   <img align="center" alt="photoshop"  src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
   <img align="center" alt="illustrator"  src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">  
   <img align="center" alt="premiere"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
