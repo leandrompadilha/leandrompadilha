@@ -18,18 +18,18 @@
   <img align="center" alt="bootstrap"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"> 
   
   <br>
-  <h4 align="center">  BACK-END </h4>
+  <h5 align="center">  BACK-END </h5>
   <img align="center" alt="java"  src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
   <img align="center" alt="mysql"  src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   
   <br>
-  <h4 align="center"> ANÁLISE DE DADOS: </h4>
+  <h5 align="center"> ANÁLISE DE DADOS: </h5>
   <img align="center" alt="python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
   <img align="center" alt="pandas"  src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">  
   <img align="center" alt="excel"  src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">    
   
   <br>
-  <h4 align="center"> PLATAFORMAS: </h4>
+  <h5 align="center"> PLATAFORMAS: </h5>
   <img align="center" alt="windows"  src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
   <img align="center" alt="ubuntu"  src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">  
   <img align="center" alt="vscode"  src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  
@@ -37,7 +37,7 @@
   <img align="center" alt="github"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   
   <br>
-  <h4 align="center"> EDIÇÃO GRÁFICA </h4>
+  <h5 align="center"> EDIÇÃO GRÁFICA </h5>
   <img align="center" alt="photoshop"  src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
   <img align="center" alt="illustrator"  src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">  
   <img align="center" alt="premiere"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
