@@ -37,7 +37,7 @@
   <img align="center" alt="github"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   
   <br>
-  <h4 align="center"> EDIÇÃO GRÁFIC: </h4>
+  <h4 align="center"> EDIÇÃO GRÁFICA </h4>
   <img align="center" alt="photoshop"  src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white"> 
   <img align="center" alt="illustrator"  src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">  
   <img align="center" alt="premiere"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
