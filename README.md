@@ -39,12 +39,6 @@
   <img align="center" alt="premiere"  src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"> 
 </div> <br>
 
-<div align="center">
-  <a href="https://leandrompadilha.github.io">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leandrompadilha&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrompadilha&layout=compact&langs_count=7&theme=nord"/>
-</div>
-
 <div align="center" style="width: 20px;">
   <h4 align="center"> Contador de Visitas: </h4>
   <img src="https://profile-counter.glitch.me/leandrompadilha/count.svg" alt="contador de visitas">    
