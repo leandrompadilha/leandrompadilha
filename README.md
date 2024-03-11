@@ -1,4 +1,4 @@
-## Oi, eu sou o Leandro
+## Oi, eu sou o Leandro!
 - 👨🏻 Curitiba/PR - 33 anos
 - 💼 Analista De Performance
 - 🔥Buscando novos desafios e ideias inovadoras
